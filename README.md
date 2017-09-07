@@ -1,13 +1,11 @@
 ![](./images/logo.png)
 
-##深度学习基础教程
+##深度学习基础教程##
 
 * [教学大纲](./materials/syllabus.md)
 * [进度计划](./materials/schedule.md)
 
-
-
-##课程列表
+##课程列表##
 
 第一章 初识深度学习
 
